@@ -1,5 +1,5 @@
 {
-  "name": "meshi-piyo",
+  "name": "learn-supabase-tutorial",
   "private": true,
   "scripts": {
     "dev": "next dev",
